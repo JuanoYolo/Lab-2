@@ -39,3 +39,5 @@ Y listo
 `$ mvn package` 
 
 ![Imagen6](https://github.com/JuanoYolo/Lab-2/blob/main/6.png)
+
+![Imagen7](https://github.com/JuanoYolo/Lab-2/blob/main/7.png)
