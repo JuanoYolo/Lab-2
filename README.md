@@ -41,3 +41,5 @@ Y listo
 ![Imagen6](https://github.com/JuanoYolo/Lab-2/blob/main/6.png)
 
 ![Imagen7](https://github.com/JuanoYolo/Lab-2/blob/main/7.png)
+
+* **Parametro Package:** Su objetivo es empaquetar el código compilado y transformarlo en algún formato tipo **.jar** o **.war**
