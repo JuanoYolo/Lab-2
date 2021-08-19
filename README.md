@@ -9,8 +9,8 @@ mvn archetype:generate -DgroupId=edu.eci.cvds -DartifactId=Patterns -Dpackage=ed
 **2.** Luego pide la version y ponemos 1.0
 ![Imagen1](https://github.com/JuanoYolo/Lab-2/blob/main/1.jpeg)
 
-**3.** Luego ponemos Y
-![Imagen2](https://github.com/JuanoYolo/Lab-2/blob/main/2.jpeg)\
+**3.** Luego ponemos Y\
+![Imagen2](https://github.com/JuanoYolo/Lab-2/blob/main/2.jpeg)
 
 Y listo\
 ![Imagen2](https://github.com/JuanoYolo/Lab-2/blob/main/3.jpeg)
