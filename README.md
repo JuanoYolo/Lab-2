@@ -30,3 +30,10 @@ Y listo
 * Editando el archivo **pom.xml**
 
 ![Imagen5](https://github.com/JuanoYolo/Lab-2/blob/main/5.png)
+
+---
+
+## COMPILAR Y EJECUTAR
+
+* Para compilar usamos el comando
+`$ mvn package` 
