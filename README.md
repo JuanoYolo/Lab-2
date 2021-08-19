@@ -43,9 +43,8 @@ Y listo
 ![Imagen7](https://github.com/JuanoYolo/Lab-2/blob/main/7.png)
 
 * **Parametro Package:** Su objetivo es empaquetar el código compilado y transformarlo en algún formato tipo **.jar** o **.war**\
-
    Otros comandos son:
- 
+   
       * mvn compile: Compila los archivos en el directorio de inicio
       * mvn test: Compila y ejecuta en el directorio de prueba
       * mvn clean: Limpia archivos compilados 
