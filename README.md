@@ -37,3 +37,5 @@ Y listo
 
 * Para compilar usamos el comando
 `$ mvn package` 
+
+![Imagen6](https://github.com/JuanoYolo/Lab-2/blob/main/6.png)
