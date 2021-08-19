@@ -17,14 +17,16 @@ mvn archetype:generate -DgroupId=edu.eci.cvds -DartifactId=Patterns -Dpackage=ed
 
 Y listo
 
-![Imagen2](https://github.com/JuanoYolo/Lab-2/blob/main/3.jpeg)
+![Imagen3](https://github.com/JuanoYolo/Lab-2/blob/main/3.jpeg)
 
 * Conjunto de archivos y directorios creamos por maven
 
-![Imagen3](https://github.com/JuanoYolo/Lab-2/blob/main/4.jpeg)
+![Imagen4](https://github.com/JuanoYolo/Lab-2/blob/main/4.jpeg)
 
 ---
 
 ## AJUSTAR ALGUNAS CONFIGURACIONES EN EL PROYECTO
 
+* Editando el archivo **pom.xml**
 
+![Imagen5](https://github.com/JuanoYolo/Lab-2/blob/main/5.png)
