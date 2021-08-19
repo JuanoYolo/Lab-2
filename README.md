@@ -14,3 +14,11 @@ mvn archetype:generate -DgroupId=edu.eci.cvds -DartifactId=Patterns -Dpackage=ed
 
 Y listo\
 ![Imagen2](https://github.com/JuanoYolo/Lab-2/blob/main/3.jpeg)
+
+* Conjunto de archivos y directorios creamos por maven\
+
+![Imagen3](https://github.com/JuanoYolo/Lab-2/blob/main/4.jpeg)
+
+---
+
+
